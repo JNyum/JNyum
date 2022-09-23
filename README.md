@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JNyum)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNyum&repo=_TIL_)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JNyum&repo=_TIL_)
